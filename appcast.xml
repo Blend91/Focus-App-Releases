@@ -5,15 +5,15 @@
     <language>en</language>
     <item>
       <title>Version 0.1.0</title>
-      <pubDate>Tue, 17 Mar 2026 10:06:23 +0000</pubDate>
+      <pubDate>Tue, 17 Mar 2026 10:18:54 +0000</pubDate>
       <sparkle:version>6</sparkle:version>
       <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>15.7</sparkle:minimumSystemVersion>
       <enclosure
         url="https://github.com/Blend91/Focus-App-Releases/releases/download/v0.1.0/FocusApp.dmg"
         type="application/octet-stream"
-        sparkle:edSignature="U1IvlXRJpw8lizDYbgYshEeA9t1xDNeg9giEKaHFJDyONUkxOHqT09OyFDOnexPGGAduahvKzm1KtrCcRHEbAQ=="
-        length="2883383"
+        sparkle:edSignature="OlclRNAyJBfLEQI2igKNcLTdfBpMrZu3kdKKRanetak1z7KjYrsuAr0zl8Wfw6wbAv6Va+g0yUuYrI9xNKKjDw=="
+        length="2882461"
       />
     </item>
   </channel>
